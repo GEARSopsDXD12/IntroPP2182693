@@ -1,0 +1,18 @@
+EJECUCION EN GUANE-1
+Enter a positive integer: 2000
+
+Sum = 2001000
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+EJECUCION EN MAQUINA LOCAL
+
+Enter a positive integer: 2000
+
+Sum = 2001000
+
+--------------------------------
+Process exited after 19.46 seconds with return value 0
+Presione una tecla para continuar . . .
+
+

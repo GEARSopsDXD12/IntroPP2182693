@@ -1,0 +1,15 @@
+
+Suma de los primeros n numeros naturales (Sin Paralelizar)
+Ingrese un Entero Positivo: 2000
+Suma Total = 2001000
+La ejecucion tardo 0.000000 segundos
+
+Suma de los primeros n numeros naturales (OMP)
+Ingrese un Entero Positivo: 2000
+Suma Total = 201000
+La ejecucion tardo 0.000075 segundos
+
+Suma de los primeros n numeros naturales (MPI)
+Ingrese un Entero Positivo: 2000
+Suma Total = 201000
+La ejecucion tardo 0.00001 segundos
