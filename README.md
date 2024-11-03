@@ -1,2 +1,4 @@
 # IntroPP2182693
-Introducción a la programación paralela
+Helman Andres Merchan Quevedo
+Introduccion a la computacion en paralelo 2023-1
+Grupo D1
